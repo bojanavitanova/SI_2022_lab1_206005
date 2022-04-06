@@ -2,4 +2,4 @@ Milk x 2
 Honey x 3
 Sugar x 1
 Eggs x 10
-Cookies x 7
+Cookies x 8
