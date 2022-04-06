@@ -1,5 +1,6 @@
 Milk x 2
-Honey x 3
+Honey x 1
 Sugar x 1
-Eggs x 10
-Cookies x 8
+Eggies x 10
+Cookies x 7
+Strawberries x20
